@@ -1,4 +1,4 @@
-# Hackathon - Codesmith
+# Chrome extension - parking-app
 
-Chrome extension - popup parking spaces Santa Monica by Jelena & Alex
+Popup for parking spaces Santa Monica by Jelena & Alex
 Javascript, html and css. (Google API, API parking smogov)
